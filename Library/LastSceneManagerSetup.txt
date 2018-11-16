@@ -1,0 +1,4 @@
+sceneSetups:
+- path: G:/New Unity Project2/Assets/Scene/ChainReaction.unity
+  isLoaded: 1
+  isActive: 1
